@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2025-09-18
   Changes:
     - [item=heat-sensor] Move to circuit-input subgroup if SchallCircuitGroup is installed.
     - Unlock heat sensor together with heat pipes.
